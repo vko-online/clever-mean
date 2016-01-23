@@ -1,0 +1,29 @@
+{
+  "name": "recode-kz",
+  "version": "0.0.1",
+  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
+  "dependencies": {
+    "bootstrap": "~3",
+    "angular": "~1.2",
+    "angular-resource": "~1.2",
+    "angular-mocks": "~1.2",
+    "angular-cookies": "~1.2",
+    "angular-animate": "~1.2",
+    "angular-touch": "~1.2",
+    "angular-sanitize": "~1.2",
+    "angular-bootstrap": "~0.11.2",
+    "angular-ui-utils": "~0.1.1",
+    "angular-ui-router": "~0.2.11",
+    "angular-file-upload": "~2.2.0",
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6",
+    "medium-editor": "~5.13.0",
+    "peity": "~3.2.0",
+    "randomcolor": "~0.4.2",
+    "Angular-Hero": "angular-hero#~0.0.7",
+    "angular-socket-io": "~0.7.0",
+    "fullpage.js": "~2.7.6"
+  },
+  "resolutions": {
+    "angular-animate": "~1.2"
+  }
+}
