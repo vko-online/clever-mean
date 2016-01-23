@@ -3,6 +3,23 @@
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
 [![Dependencies Status](https://david-dm.org/meanjs/mean.svg)](https://david-dm.org/meanjs/mean)
 
+## Customizations
+### Server modules
+ - [multer](https://github.com/expressjs/multer)
+ - [socket.io](https://github.com/Automattic/socket.io)
+ - [grunt-contrib-sass](https://github.com/gruntjs/grunt-contrib-sass)
+ 
+### Client moduless
+ - [angular-file-upload](https://github.com/nervgh/angular-file-upload)
+ - [fullpage.js](http://alvarotrigo.com/fullPage)
+ - [angular-hero](https://github.com/DevAndyLee/Angular-Hero)
+ - [angular-socket.io](https://github.com/btford/angular-socket-io)
+ - [bootstrap-sass](https://github.com/twbs/bootstrap-sass)
+ - [medium-editor](http://yabwe.github.io/medium-editor)
+ - [peity](https://github.com/benpickles/peity)
+ - [randomcolor](https://github.com/davidmerfield/randomColor)
+ - [side-comments](https://github.com/aroc/side-comments)
+
 MEAN.JS is a full-stack JavaScript open-source solution, which provides a solid starting point for [MongoDB](http://www.mongodb.org/), [Node.js](http://www.nodejs.org/), [Express](http://expressjs.com/), and [AngularJS](http://angularjs.org/) based applications. The idea is to solve the common issues with connecting those frameworks, build a robust framework to support daily development needs, and help developers use better practices while working with popular JavaScript components. 
 
 ## Before You Begin 
