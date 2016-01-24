@@ -19,7 +19,7 @@
 			<span id="permalink-copier" data-clipboard-text="{{host}}/a/{{article.slug}}" title="Click to copy">Permalink</span>
 		</small>
 	</div>
-	<p class="lead no-outline" data-ng-bind-html="article.content" data-placeholder=" "></p>
+	<p class="lead no-outline" data-ng-bind-html="article.content" data-placeholder=" " data-disable-editing="{{authentication.user._id != article.user._id}}"></p>
 	<tags-input ng-disabled="authentication.user._id != article.user._id"
 				ng-model="article.tags"
 				key-property="_id"
