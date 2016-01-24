@@ -41,7 +41,7 @@ module.exports = {
 				'public/lib/peity/jquery.peity.js',
 				'public/lib/randomcolor/randomColor.js',
 				'public/lib/side-comments/release/side-comments.js',
-				'https://cdn.socket.io/socket.io-1.4.3.js',
+				'public/custom_lib/socket.js',
 				'public/lib/angular-socket-io/socket.js',
 				'public/lib/Angular-Hero/angular-hero.js',
 				'public/lib/fullpage.js/dist/jquery.fullpage.min.js',
