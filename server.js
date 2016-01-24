@@ -18,10 +18,11 @@ var db = mongoose.connect(config.db, function(err) {
 		console.error(chalk.red('Could not connect to MongoDB!'));
 		console.log(chalk.red(err));
 	} else {
-		if(process.env.INIT){
-			var initializer = require('./initializer');
-			initializer.initializeTags();
-		}
+		//if(process.env.INIT){
+		//
+		//}
+		var initializer = require('./initializer');
+		initializer.initializeTags();
 	}
 });
 
