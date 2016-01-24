@@ -5809,5 +5809,25 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+.tag-template {
+  display: flex; }
+  .tag-template img {
+    width: 52px;
+    height: 52px; }
+  .tag-template .tag-template-title {
+    flex: 1;
+    padding: 0 0 0 5px; }
+    .tag-template .tag-template-title span {
+      display: block;
+      margin: 0;
+      line-height: 10px;
+      padding-top: 10px; }
+    .tag-template .tag-template-title small {
+      display: block;
+      margin: 0;
+      line-height: 10px;
+      padding-top: 10px; }
+  .tag-template a.remove-button {
+    padding-top: 18px; }
 
 /*# sourceMappingURL=style.css.map */

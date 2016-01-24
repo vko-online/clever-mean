@@ -1,4 +1,7 @@
 <div class="tag-template">
     <img ng-src="{{data.image}}" ng-if="data.image"/>
-    <span>{{$getDisplayText()}}</span>
+    <div class="tag-template-title">
+        <span>{{$getDisplayText()}}</span>
+        <small>{{data.category}}</small>
+    </div>
 </div>

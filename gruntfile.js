@@ -151,7 +151,7 @@ module.exports = function(grunt) {
 		sass: {
 			dev: {
 				files: {
-					'public/css/style.css': 'public/scss/{,*/}*.{scss,sass}'
+					'public/css/style.css': 'public/scss/style.scss'
 				}
 			},
 			dist: {
@@ -161,7 +161,7 @@ module.exports = function(grunt) {
 					compass: false
 				},
 				files: {
-					'public/dist/style.min.css': 'public/scss/{,*/}*.{scss,sass}'
+					'public/dist/style.min.css': 'public/scss/style.scss'
 				}
 			}
 		}

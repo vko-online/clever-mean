@@ -3,3 +3,27 @@ $brand-success: #A0D468;
 $icon-font-path: 'lib/bootstrap-sass/assets/fonts/bootstrap';
 @import "../lib/bootstrap-sass/assets/stylesheets/bootstrap";
 
+.tag-template {
+    display: flex;
+    img {
+        width: 52px;
+        height: 52px;
+    }
+    .tag-template-title {
+        flex: 1;
+        padding: 0 0 0 5px;
+        span {
+            display: block;
+            margin: 0;
+            line-height: 10px;
+            padding-top: 10px;
+        }
+
+        small {
+            display: block;
+            margin: 0;
+            line-height: 10px;
+            padding-top: 10px;
+        }
+    }
+}

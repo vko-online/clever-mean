@@ -14,7 +14,8 @@ module.exports = {
 				'public/lib/ng-tags-input/ng-tags-input.min.css',
 				'public/lib/ng-tags-input/ng-tags-input.bootstrap.min.css',
 				'public/lib/ngToast/dist/ngToast.min.css',
-				'public/lib/ngToast/dist/ngToast-animations.min.css'
+				'public/lib/ngToast/dist/ngToast-animations.min.css',
+				'public/lib/colors/css/colors.min.css'
 			],
 			js: [
 				//'public/lib/less/dist/less.min.js',
@@ -40,7 +41,8 @@ module.exports = {
 				'public/lib/ng-tags-input/ng-tags-input.min.js',
 				'public/lib/jparallax/js/jquery.parallax.min.js',
 				'public/lib/zeroclipboard/dist/ZeroClipboard.min.js',
-				'public/lib/ngToast/dist/ngToast.min.js'
+				'public/lib/ngToast/dist/ngToast.min.js',
+				'public/lib/colors/js/colors.js'
 			]
 		},
 		css: 'public/dist/application.min.css',
