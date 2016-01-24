@@ -27,7 +27,7 @@
 }
 
 tags-input .tags .input {
-    height: 32px;
+    height: 54px;
 }
 tags-input .tags .tag-item .remove-button{
     padding-top: 18px;
@@ -35,8 +35,10 @@ tags-input .tags .tag-item .remove-button{
 
 tags-input .tags .tag-item {
     color: #333;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
     background: #fff;
-    padding: 0 5px 0 2px;
+    padding: 0 5px 0 0;
     height: 54px;
     line-height: 28px;
 }
