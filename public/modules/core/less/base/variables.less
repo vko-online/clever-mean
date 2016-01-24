@@ -1,0 +1,278 @@
+//
+//  STACK OVERFLOW CAREERS
+//
+//  Created May 2, 2014
+//  Updated February 6, 2015
+//
+//  http://careers.stackoverflow.com
+//
+//  VARIABLES
+//  
+//  TABLE OF CONTENTS
+//  • Corner Radius
+//  • Media Queries
+//  • Padding, Margin, Whitespace
+//  • Z-Index
+//  • Colors
+//  • Type
+//
+// ===========================================================================
+//  $ CORNER RADIUS
+// ---------------------------------------------------------------------------
+@borderRadius-base:     4px;
+@borderRadius-large:    @borderRadius-base * 2;
+@borderRadius-small:    @borderRadius-base / 2;
+
+
+// ===========================================================================
+//  $ MEDIA QUERY SIZES
+// ---------------------------------------------------------------------------
+@mediaQuery-small:      768px;
+@mediaQuery-medium:     992px;
+@mediaQuery-large:      1200px;
+
+
+// ===========================================================================
+//  $ PADDING, MARGINS, WHITESPACE
+// ---------------------------------------------------------------------------
+@padding-half:          @padding-base / 2;
+@padding-base:          @fontSize-base * 1px;
+@padding-double:        @padding-base * 2;
+
+@margin-half:           @margin-base / 2;
+@margin-base:           @fontSize-base * 1px;
+@margin-double:         @margin-base * 2;
+
+
+// ===========================================================================
+//  $ Z-INDEX
+// ---------------------------------------------------------------------------
+@zindex-navbar:         1000;
+@zindex-navbar_fixed:   1030;
+@zindex-dropdown:       1000;
+@zindex-popover:        1010;
+@zindex-tooltip:        1020;
+@zindex-modal:          1050;
+@zindex-modalBackdrop:  1040;
+
+
+//  ============================================================================
+//  $ COLOR
+//  ----------------------------------------------------------------------------
+//  Color management is a big undertaking in a product like Stack Overflow
+//  Careers. Various situations call for varying colors. In the past we would
+//  declare all of those values within components, littering our LESS files with
+//  either declared colors or color variable names (i.e., #FFF, rgb(255,255,255),
+//  @gray-light-01, @gray-dark, etc). This approach made managing colors a losing
+//  battle. Like other property variables, they can have global scope or 
+//  component scope. Global variables are defined here, as are variables for 
+//  simple (primitive) components. Variables for components that have their own
+//  LESS file are defined in that file.
+//
+//  1.  The designers mainly control colors and HSL is a much easier color space
+//      to visualize a color within. If you aren't familiar with HSL, it stands
+//      for Hue, Saturation, and Lightness. Hue is set in a circular angle, going
+//      from red (0º) all the way back around to red again (360º). The major stops
+//      along the way are:
+//      0     Red
+//      60    Yellow
+//      120   Green
+//      180   Aqua
+//      240   Blue
+//      300   Purple
+//      360   Red
+//
+//      To generate colors like orange, brown, white, grays, and black, you use the
+//      saturation and lightness to move a color forward and backward. For a more
+//      in-depth understanding of HSL, visit the W3C's Wiki:
+//      http://www.w3.org/wiki/CSS/Properties/color/HSL
+//
+//  2.  LESS' color functions allow for easier manipulation of colors than RGB.
+//      Granted, you could generate the initial the color as a HEX or RGB value and
+//      manipulate it using HSL color functions. This is a bit confusing though to
+//      declare values one way and manipulate them another. Both HSL and RGB are
+//      supported in all browsers except IE6 amd IE8.
+//
+//  
+//  Converting HSB to HSL:
+//  HSB is not the same as HSL. In order to use HSL colors, convert the RGB values
+//  found within Photoshop or Sketch to HSL values at the following website:
+//  http://serennu.com/colour/hsltorgb.php
+//
+//  ----------------------------------------------------------------------------
+//  --  Global colors
+@white:             hsl(0,0%,100%);
+@black:             @gray-900;
+@gray:              hsl(208,16%,31%);
+
+@orange:            hsl(21,96%,56%);
+@golden:            hsl(36,97%,57%);
+@yellow:            hsl(51,98%,59%);
+@green:             hsl(146,56%,49%);
+@turquoise:         hsl(183,66%,50%);
+@blue:              hsl(207,96%,54%);
+@azure:             hsl(208,85%,37%);
+@red:               hsl(358,88%,50%);
+
+//  --  Primary: Stack Orange
+@orange-900:        saturate(darken(@orange,14%),4%);
+@orange-800:        desaturate(darken(@orange,5%),5%);
+@orange-700:        @orange;
+@orange-600:        saturate(lighten(@orange,8%),1%);
+@orange-500:        lighten(@orange,17%);
+@orange-400:        saturate(lighten(@orange,24%),4%);
+@orange-300:        saturate(lighten(@orange,30%),4%);
+@orange-200:        saturate(lighten(@orange,36%),4%);
+@orange-100:        saturate(lighten(@orange,41%),4%);
+
+//  --  Primary: Sky Blue
+@blue-900:          spin(saturate(darken(@blue,11%),4%),7);
+@blue-800:          spin(darken(@blue,6%),4);
+@blue-700:          @blue;
+@blue-600:          lighten(@blue,5%);
+@blue-500:          desaturate(lighten(@blue,15%),1%);
+@blue-400:          desaturate(lighten(@blue,25%),2%);
+@blue-300:          saturate(lighten(@blue,32%),4%);
+@blue-200:          saturate(lighten(@blue,37%),4%);
+@blue-100:          saturate(lighten(@blue,41%),4%);
+
+//  --  Primary: Cool Gray
+@gray-900:          saturate(darken(@gray,21%),11%);
+@gray-800:          saturate(darken(@gray,10%),9%);
+@gray-700:          @gray;
+@gray-600:          desaturate(lighten(@gray,15%),4%);
+@gray-500:          desaturate(lighten(@gray,27%),1%);
+@gray-400:          saturate(lighten(@gray,40%),4%);
+@gray-300:          saturate(lighten(@gray,49%),2%);
+@gray-200:          lighten(@gray,58%);
+@gray-100:          desaturate(lighten(@gray,64%),1%);
+
+//  --  Secondary: Golden Poppy
+@golden-900:        saturate(darken(@golden,17%),3%);
+@golden-800:        desaturate(darken(@golden,8%),5%);
+@golden-700:        @golden;
+@golden-600:        saturate(lighten(@golden,7%),4%);
+@golden-500:        saturate(lighten(@golden,14%),1%);
+@golden-400:        saturate(lighten(@golden,22%),4%);
+@golden-300:        saturate(lighten(@golden,28%),4%);
+@golden-200:        saturate(lighten(@golden,33%),4%);
+@golden-100:        saturate(lighten(@golden,38%),4%);
+
+//  --  Secondary: Jungle Green
+@green-900:         saturate(darken(@green,20%),36%);
+@green-800:         saturate(darken(@green,9%),20%);
+@green-700:         @green;
+@green-600:         saturate(lighten(@green,7%),2%);
+@green-500:         saturate(lighten(@green,20%),9%);
+@green-400:         saturate(lighten(@green,26%),19%);
+@green-300:         saturate(lighten(@green,31%),13%);
+@green-200:         saturate(lighten(@green,37%),17%);
+@green-100:         saturate(lighten(@green,43%),19%);
+
+//  --  Secondary: Azure
+@azure-900:         saturate(darken(@azure,15%),15%);
+@azure-800:         saturate(darken(@azure,10%),14%);
+@azure-700:         @azure;
+@azure-600:         desaturate(lighten(@azure,10%),23%);
+@azure-500:         desaturate(lighten(@azure,26%),19%);
+@azure-400:         desaturate(lighten(@azure,32%),16%);
+@azure-300:         desaturate(lighten(@azure,39%),13%);
+@azure-200:         desaturate(lighten(@azure,47%),7%);
+@azure-100:         saturate(lighten(@azure,55%),15%);
+
+//  --  Accent: Cyber Yellow
+@yellow-900:        spin(saturate(darken(@yellow,9%),2%),-7);
+@yellow-800:        spin(saturate(darken(@yellow,9%),2%),-3);
+@yellow-700:        @yellow;
+@yellow-600:        saturate(lighten(@yellow,8%),2%);
+@yellow-500:        saturate(lighten(@yellow,17%),2%);
+@yellow-400:        saturate(lighten(@yellow,24%),2%);
+@yellow-300:        saturate(lighten(@yellow,30%),2%);
+@yellow-200:        saturate(lighten(@yellow,34%),2%);
+@yellow-100:        saturate(lighten(@yellow,37%),2%);
+
+//  --  Accent: Turquoise
+@turquoise-900:     saturate(darken(@turquoise,17%),34%);
+@turquoise-800:     saturate(darken(@turquoise,8%),17%);
+@turquoise-700:     @turquoise;
+@turquoise-600:     saturate(lighten(@turquoise,9%),2%);
+@turquoise-500:     saturate(lighten(@turquoise,19%),3%);
+@turquoise-400:     saturate(lighten(@turquoise,25%),9%);
+@turquoise-300:     saturate(lighten(@turquoise,30%),10%);
+@turquoise-200:     saturate(lighten(@turquoise,36%),11%);
+@turquoise-100:     saturate(lighten(@turquoise,42%),20%);
+
+//  --  Accent: Electric Crimson
+@red-900:           saturate(darken(@red,17%),12%);
+@red-800:           saturate(darken(@red,11%),12%);
+@red-700:           @red;
+@red-600:           saturate(lighten(@red,16%),8%);
+@red-500:           saturate(lighten(@red,25%),12%);
+@red-400:           saturate(lighten(@red,30%),12%);
+@red-300:           saturate(lighten(@red,37%),12%);
+@red-200:           saturate(lighten(@red,43%),12%);
+@red-100:           saturate(lighten(@red,46%),12%);
+
+
+@color-orange:    hsl(21,100%,56%);
+@color-brown:     hsl(35,45%,26%);
+@color-yellow:    hsl(50,100%,71%);
+@color-green:     hsl(160,63%,61%);
+@color-blue:      hsl(205,100%,50%);
+@color-red:       hsl(0,75%,50%);
+
+@color-white:     hsl(0,0%,100%);
+@color-grayLight: spin(desaturate(lighten(@color-grayMid,50%),3%),-6);
+@color-grayMid:   hsl(206,10%,42%);
+@color-grayDark:  spin(darken(@color-grayMid,14%),2);
+@color-black:     spin(saturate(darken(@color-grayMid,26%),11%),2);
+
+//  -- Global Background Variables
+@backgroundColor-grayLighter:  lighten(@color-grayMid,53%); //spin(desaturate(lighten(@color-grayMid,53%),6%),-26);
+@backgroundColor-grayLight:    @color-grayLight;
+
+//  -- Global Border Variables
+@borderColor-grayLight: @gray-200;
+@borderColor-gray:      @gray-300;
+@borderColor-grayDark:  @gray-400;
+
+
+//  ============================================================================
+//  $ TYPE
+//  Please see "/base/_type" for the reasons this is kept here vs. there.
+//  ----------------------------------------------------------------------------
+//  -- Sizes
+@fontSize-base:             13;
+
+//  -- Font Family
+@fontFamily-sans:           "HelveticaNeue-Regular", "Helvetica Neue Regular", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+@fontFamily-serif:          Georgia, Times New Roman, Times, serif;
+@fontFamily-code:           Menlo, Monaco, Consolas, "Courier New", monospace;
+
+//  -- Colors
+@copy-color:                @gray-800;
+@copy_lead-color:           @gray-500;
+@copy_muted-color:          @gray-500;
+
+@link-color:                @blue-700;
+@link_hover-color:          @blue-900;
+
+@title-color:               @gray-700;
+@title_section-color:       @title-color;
+@title_subSection-color:    @gray-500;
+@title_muted-color:         @gray-400;
+
+@quote-border:              @gray-500;
+@quote-color:               @gray-600;
+@quote_accent-background:   fade(@gray-100,60%);
+@quote-background:          fade(@gray-100,10%);
+@quote_accent-border:       @orange-700;
+@quote-border_accent:       @orange-700;
+@quote_accent-color:        @gray-700;
+@quote_pull-color:          @gray-600;
+@quote-textColor:           @gray-600;
+@quote_pull-textColor:      @gray-600;
+
+@callout-infoBck:           spin(lighten(@color-yellow,25%),-6);
+@callout-infoBorder:        spin(desaturate(lighten(@color-yellow,14%),53%),-5);
+@callout-infoText:          spin(desaturate(lighten(@color-grayMid,6%),6%),-2);

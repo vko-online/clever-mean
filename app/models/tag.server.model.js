@@ -16,13 +16,23 @@ var TagSchema = new Schema({
 		required: 'Please fill Tag name',
 		trim: true
 	},
+	image: {
+		type: String,
+		default: '',
+		trim: true
+	},
+	category: {
+		type: String,
+		default: '',
+		trim: true
+	},
+	hits: {
+		type: Number,
+		default: 0
+	},
 	created: {
 		type: Date,
 		default: Date.now
-	},
-	user: {
-		type: Schema.ObjectId,
-		ref: 'User'
 	}
 });
 

@@ -16,9 +16,16 @@ module.exports = {
 				'public/lib/medium-editor/dist/css/medium-editor.css',
 				'public/lib/side-comments/release/side-comments.css',
 				'public/lib/Angular-Hero/angular-hero.css',
-				'public/lib/fullpage.js/dist/jquery.fullpage.css'
+				'public/lib/fullpage.js/dist/jquery.fullpage.css',
+				'public/lib/font-awesome/css/font-awesome.css',
+				'public/lib/medium-editor/dist/css/themes/bootstrap.css',
+				'public/lib/ng-tags-input/ng-tags-input.css',
+				'public/lib/ng-tags-input/ng-tags-input.bootstrap.css',
+				'public/lib/ngToast/dist/ngToast.css',
+				'public/lib/ngToast/dist/ngToast-animations.css'
 			],
 			js: [
+				//'public/lib/less/dist/less.js',
 				'public/lib/jquery/dist/jquery.js',
 				'public/lib/angular/angular.js',
 				'public/lib/angular-resource/angular-resource.js', 
@@ -37,7 +44,11 @@ module.exports = {
 				'https://cdn.socket.io/socket.io-1.4.3.js',
 				'public/lib/angular-socket-io/socket.js',
 				'public/lib/Angular-Hero/angular-hero.js',
-				'public/lib/fullpage.js/dist/jquery.fullpage.min.js'
+				'public/lib/fullpage.js/dist/jquery.fullpage.min.js',
+				'public/lib/ng-tags-input/ng-tags-input.js',
+				'public/lib/jparallax/js/jquery.parallax.js',
+				'public/lib/zeroclipboard/dist/ZeroClipboard.js',
+				'public/lib/ngToast/dist/ngToast.js'
 			]
 		},
 		css: [

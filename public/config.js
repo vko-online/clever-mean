@@ -15,7 +15,9 @@ var ApplicationConfiguration = (function () {
         'ui.utils',
         'btford.socket-io',
         'alAngularHero',
-        'angularFileUpload'
+        'angularFileUpload',
+        'ngTagsInput',
+        'ngToast'
     ];
 
     // Add a new vertical module

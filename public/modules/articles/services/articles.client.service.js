@@ -8,6 +8,16 @@ angular.module('articles').factory('Articles', ['$resource',
 		}, {
 			update: {
 				method: 'PUT'
+			},
+			addTag: {
+				url: 'api/articles/:articleId/tag',
+				method: 'POST',
+				isArray: false
+			},
+			removeTag: {
+				url: 'api/articles/:articleId/tag',
+				method: 'DELETE',
+				isArray: false
 			}
 		});
 	}

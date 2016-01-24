@@ -6,6 +6,6 @@ angular.module('tags').run(['Menus',
 		// Set top bar menu items
 		Menus.addMenuItem('topbar', 'Tags', 'tags', 'dropdown', '/tags(/create)?');
 		Menus.addSubMenuItem('topbar', 'tags', 'List Tags', 'tags');
-		Menus.addSubMenuItem('topbar', 'tags', 'New Tag', 'tags/create');
+		//Menus.addSubMenuItem('topbar', 'tags', 'New Tag', 'tags/create');
 	}
 ]);

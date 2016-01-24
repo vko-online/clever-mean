@@ -1,22 +1,33 @@
 <section data-ng-controller="ArticlesController" data-ng-init="findOne()" class="container">
-	<div class="page-header">
+	<div class="page-header clearfix">
 		<h1 data-ng-bind="article.title"></h1>
+		<div class="pull-right" data-ng-show="authentication.user._id == article.user._id">
+			<a class="btn btn-primary" ng-click="article.$update()">
+				<i class="fa fa-floppy-o"></i>
+			</a>
+			<a class="btn btn-primary" data-ng-click="remove();">
+				<i class="fa fa-trash-o"></i>
+			</a>
+		</div>
+		<small>
+			<em class="text-muted">
+				Posted on
+				<span data-ng-bind="article.created | date:'mediumDate'"></span>
+				by
+				<span data-ng-bind="article.user.displayName"></span>
+			</em>
+			<span id="permalink-copier" data-clipboard-text="{{host}}/a/{{article.slug}}" title="Click to copy">Permalink</span>
+		</small>
 	</div>
-	<div class="pull-right" data-ng-show="authentication.user._id == article.user._id">
-		<a class="btn btn-primary" href="/articles/{{article._id}}/edit">
-			<i class="glyphicon glyphicon-edit"></i>
-		</a>
-		<a class="btn btn-primary" data-ng-click="remove();">
-			<i class="glyphicon glyphicon-trash"></i>
-		</a>
-	</div>
-	<small>
-		<em class="text-muted">
-			Posted on
-			<span data-ng-bind="article.created | date:'mediumDate'"></span>
-			by
-			<span data-ng-bind="article.user.displayName"></span>
-		</em>
-	</small>
-	<p class="lead" data-ng-bind="article.content"></p>
+	<p class="lead no-outline" data-ng-bind-html="article.content" data-placeholder=" "></p>
+	<tags-input ng-disabled="authentication.user._id != article.user._id"
+				ng-model="article.tags"
+				key-property="_id"
+				display-property="name"
+				template="modules/core/templates/tag.html"
+				add-from-autocomplete-only="true"
+				on-tag-added="addTag($tag)"
+				on-tag-removed="removeTag($tag)">
+		<auto-complete source="loadTags($query)" template="modules/core/templates/tag-autocomplete.html"></auto-complete>
+	</tags-input>
 </section>

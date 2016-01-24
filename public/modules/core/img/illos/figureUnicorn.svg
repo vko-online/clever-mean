@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 212 236" enable-background="new 0 0 212 236" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="123.5971" y1="14.8756" x2="123.5971" y2="107.3143">
+			<stop  offset="4.643654e-03" style="stop-color:#FFE2D2"/>
+			<stop  offset="0.2327" style="stop-color:#FFE1CE;stop-opacity:0.7612"/>
+			<stop  offset="0.4745" style="stop-color:#FFE0C1;stop-opacity:0.5082"/>
+			<stop  offset="0.7217" style="stop-color:#FFDEAC;stop-opacity:0.2494"/>
+			<stop  offset="0.7689" style="stop-color:#FFDDA7;stop-opacity:0.2"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M170.8,51.4c0.1-1.1,0.2-2.3,0.2-3.4c0-18.3-14.8-33.1-33.1-33.1c-12.1,0-22.6,6.5-28.4,16.2
+			c-3.1-2-6.7-3.1-10.6-3.1c-10.9,0-19.7,8.8-19.7,19.7c0,1.2,0.1,2.3,0.3,3.4C64.7,51.9,53,64.2,53,79.1
+			c0,15.6,12.6,28.2,28.2,28.2H166c15.6,0,28.2-12.6,28.2-28.2C194.2,65.2,184.1,53.6,170.8,51.4z"/>
+		<g>
+			<g opacity="0.5">
+				<g>
+					<defs>
+						<path id="SVGID_355_" d="M143.2,62.2c2.1,3.2,2,4.1,4,3.3l5.2-2c0.5-0.2,0.8-0.8,0.7-1.3l-1.6-6.4c-0.2-0.5-0.8-0.8-1.3-0.6
+							l-9.1,3.6L143.2,62.2"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_355_"  overflow="visible"/>
+					</clipPath>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF6D1F" points="150.7,55.1 141,58.8 141,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF6D1F" points="151,55.1 141,59 141,58.8 150.7,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF6E1F" points="151.4,55.1 141,59.1 141,59 151,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF6F1F" points="151.8,55.1 141,59.3 141,59.1 151.4,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF711F" points="152.2,55.1 141,59.4 141,59.3 151.8,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF721F" points="152.6,55.1 141,59.6 141,59.4 152.2,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF731F" points="152.9,55.1 152.9,55.1 141,59.7 141,59.6 152.6,55.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF741F" points="152.9,55.1 153,55.2 141,59.9 141,59.7 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF751F" points="153,55.2 153,55.3 141,60 141,59.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF761F" points="153,55.3 153.1,55.5 141,60.2 141,60 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7820" points="153.1,55.5 153.1,55.6 141,60.3 141,60.2 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7920" points="153.1,55.6 153.2,55.7 153.2,55.7 141,60.5 141,60.3 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7A20" points="153.2,55.9 141,60.6 141,60.5 153.2,55.7 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7B20" points="153.2,56 141,60.8 141,60.6 153.2,55.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7C20" points="153.2,56.2 141,60.9 141,60.8 153.2,56 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7D20" points="153.2,56.3 141,61.1 141,60.9 153.2,56.2 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF7F20" points="153.2,56.5 141,61.2 141,61.1 153.2,56.3 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8020" points="153.2,56.6 141,61.4 141,61.2 153.2,56.5 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8120" points="153.2,56.8 141,61.5 141,61.4 153.2,56.6 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8220" points="153.2,56.9 141,61.7 141,61.5 153.2,56.8 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8320" points="153.2,57.1 141,61.8 141,61.7 153.2,56.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8420" points="153.2,57.2 141,62 141,61.8 153.2,57.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8520" points="153.2,57.4 141,62.1 141,62 153.2,57.2 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8620" points="153.2,57.5 141,62.3 141,62.1 153.2,57.4 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8720" points="153.2,57.7 141,62.4 141,62.3 153.2,57.5 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8920" points="153.2,57.8 141,62.6 141,62.4 153.2,57.7 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8A20" points="153.2,58 141,62.7 141,62.6 153.2,57.8 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8B20" points="153.2,58.1 141,62.9 141,62.7 153.2,58 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8C21" points="153.2,58.3 141,63 141,62.9 153.2,58.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8D21" points="153.2,58.4 141,63.2 141,63 153.2,58.3 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8E21" points="153.2,58.6 141,63.3 141,63.2 153.2,58.4 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF8F21" points="153.2,58.7 141,63.5 141,63.3 153.2,58.6 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9021" points="153.2,58.9 141.1,63.6 141,63.5 141,63.5 153.2,58.7 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9121" points="153.2,59 141.1,63.7 141.1,63.6 153.2,58.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9221" points="153.2,59.2 141.2,63.9 141.1,63.7 153.2,59 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9321" points="153.2,59.3 141.2,64 141.2,63.9 153.2,59.2 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9421" points="153.2,59.5 141.3,64.1 141.2,64 153.2,59.3 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9521" points="153.2,59.6 141.3,64.2 141.3,64.1 153.2,59.5 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9621" points="153.2,59.8 141.4,64.4 141.3,64.2 153.2,59.6 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9721" points="153.2,59.9 141.4,64.5 141.4,64.4 153.2,59.8 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9821" points="153.2,60.1 141.5,64.6 141.4,64.5 153.2,59.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9921" points="153.2,60.2 141.5,64.8 141.5,64.6 153.2,60.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9A21" points="153.2,60.4 141.6,64.9 141.5,64.8 153.2,60.2 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9B21" points="153.2,60.5 141.6,65 141.6,64.9 153.2,60.4 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9C21" points="153.2,60.7 141.7,65.2 141.6,65 153.2,60.5 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9D21" points="153.2,60.8 141.7,65.3 141.7,65.2 153.2,60.7 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9E21" points="153.2,61 141.8,65.4 141.7,65.3 153.2,60.8 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FF9F21" points="153.2,61.1 141.8,65.5 141.8,65.4 153.2,61 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA022" points="153.2,61.3 141.9,65.7 141.8,65.5 153.2,61.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA122" points="153.2,61.4 141.9,65.8 141.9,65.7 153.2,61.3 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA222" points="153.2,61.6 142,65.9 141.9,65.8 153.2,61.4 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA322" points="153.2,61.7 142,66.1 142,65.9 153.2,61.6 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA322" points="153.2,61.9 142.1,66.2 142,66.1 153.2,61.7 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA422" points="153.2,62 142.2,66.3 142.1,66.3 142.1,66.2 153.2,61.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA522" points="153.2,62.2 142.6,66.3 142.2,66.3 153.2,62 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA622" points="153.2,62.3 143,66.3 142.6,66.3 153.2,62.2 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA722" points="153.2,62.5 143.4,66.3 143,66.3 153.2,62.3 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA722" points="153.2,62.6 143.7,66.3 143.4,66.3 153.2,62.5 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA822" points="153.2,62.8 144.1,66.3 143.7,66.3 153.2,62.6 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFA922" points="153.2,62.9 144.5,66.3 144.1,66.3 153.2,62.8 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFAA22" points="153.2,63.1 144.9,66.3 144.5,66.3 153.2,62.9 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFAA22" points="153.2,63.2 145.3,66.3 144.9,66.3 153.2,63.1 					"/>
+					<polygon clip-path="url(#SVGID_4_)" fill="#FFAA22" points="145.3,66.3 153.2,63.2 153.2,66.3 					"/>
+				</g>
+			</g>
+			<g>
+				<path fill="#FF8A4C" d="M146,66.4L146,66.4c-1,0-1.4-0.7-2.2-2.1c-0.3-0.5-0.7-1.1-1.1-1.7l-2.5-3.9l9.8-3.8
+					c0.7-0.3,1.6,0.1,1.8,0.8l1.7,6.6c0.2,0.8-0.2,1.6-0.9,1.8l-5.3,2.1C146.7,66.3,146.3,66.4,146,66.4z M141.4,59l2,3
+					c0.5,0.7,0.8,1.3,1.1,1.8c0.8,1.3,1.1,1.7,1.5,1.7l0,0c0.2,0,0.5-0.1,0.9-0.2l5.3-2.1c0.3-0.1,0.5-0.5,0.4-0.8l-1.7-6.5
+					c-0.1-0.2-0.4-0.4-0.7-0.3L141.4,59z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<polygon id="SVGID_357_" points="123.1,56.5 110.9,58.4 112.2,60.5 102.6,66.6 106.4,69.4 98.2,78.8 101.2,78.8 96,88.9 
+						98.2,88.9 93.1,100 99.6,96.9 93.1,107 103.9,105.1 121.5,65.2 					"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_357_"  overflow="visible"/>
+				</clipPath>
+				<rect x="93.1" y="106.6" clip-path="url(#SVGID_6_)" fill="#FF6D1F" width="29.9" height="0.4"/>
+				<rect x="93.1" y="106.4" clip-path="url(#SVGID_6_)" fill="#FF6D1F" width="29.9" height="0.3"/>
+				<rect x="93.1" y="106.1" clip-path="url(#SVGID_6_)" fill="#FF6E20" width="29.9" height="0.3"/>
+				<rect x="93.1" y="105.9" clip-path="url(#SVGID_6_)" fill="#FF6F20" width="29.9" height="0.3"/>
+				<rect x="93.1" y="105.6" clip-path="url(#SVGID_6_)" fill="#FF7021" width="29.9" height="0.3"/>
+				<rect x="93.1" y="105.3" clip-path="url(#SVGID_6_)" fill="#FF7121" width="29.9" height="0.3"/>
+				<rect x="93.1" y="105.1" clip-path="url(#SVGID_6_)" fill="#FF7222" width="29.9" height="0.3"/>
+				<rect x="93.1" y="104.8" clip-path="url(#SVGID_6_)" fill="#FF7323" width="29.9" height="0.3"/>
+				<rect x="93.1" y="104.6" clip-path="url(#SVGID_6_)" fill="#FF7423" width="29.9" height="0.3"/>
+				<rect x="93.1" y="104.3" clip-path="url(#SVGID_6_)" fill="#FF7524" width="29.9" height="0.3"/>
+				<rect x="93.1" y="104" clip-path="url(#SVGID_6_)" fill="#FF7624" width="29.9" height="0.3"/>
+				<rect x="93.1" y="103.8" clip-path="url(#SVGID_6_)" fill="#FF7725" width="29.9" height="0.3"/>
+				<rect x="93.1" y="103.5" clip-path="url(#SVGID_6_)" fill="#FF7826" width="29.9" height="0.3"/>
+				<rect x="93.1" y="103.2" clip-path="url(#SVGID_6_)" fill="#FF7926" width="29.9" height="0.3"/>
+				<rect x="93.1" y="103" clip-path="url(#SVGID_6_)" fill="#FF7A27" width="29.9" height="0.3"/>
+				<rect x="93.1" y="102.7" clip-path="url(#SVGID_6_)" fill="#FF7B28" width="29.9" height="0.3"/>
+				<rect x="93.1" y="102.5" clip-path="url(#SVGID_6_)" fill="#FF7C28" width="29.9" height="0.3"/>
+				<rect x="93.1" y="102.2" clip-path="url(#SVGID_6_)" fill="#FF7D29" width="29.9" height="0.3"/>
+				<rect x="93.1" y="101.9" clip-path="url(#SVGID_6_)" fill="#FF7E29" width="29.9" height="0.3"/>
+				<rect x="93.1" y="101.7" clip-path="url(#SVGID_6_)" fill="#FF7F2A" width="29.9" height="0.3"/>
+				<rect x="93.1" y="101.4" clip-path="url(#SVGID_6_)" fill="#FF802B" width="29.9" height="0.3"/>
+				<rect x="93.1" y="101.2" clip-path="url(#SVGID_6_)" fill="#FF812B" width="29.9" height="0.3"/>
+				<rect x="93.1" y="100.9" clip-path="url(#SVGID_6_)" fill="#FF822C" width="29.9" height="0.3"/>
+				<rect x="93.1" y="100.6" clip-path="url(#SVGID_6_)" fill="#FF832C" width="29.9" height="0.3"/>
+				<rect x="93.1" y="100.4" clip-path="url(#SVGID_6_)" fill="#FF842D" width="29.9" height="0.3"/>
+				<rect x="93.1" y="100.1" clip-path="url(#SVGID_6_)" fill="#FF852E" width="29.9" height="0.3"/>
+				<rect x="93.1" y="99.9" clip-path="url(#SVGID_6_)" fill="#FF862E" width="29.9" height="0.3"/>
+				<rect x="93.1" y="99.6" clip-path="url(#SVGID_6_)" fill="#FF872F" width="29.9" height="0.3"/>
+				<rect x="93.1" y="99.3" clip-path="url(#SVGID_6_)" fill="#FF882F" width="29.9" height="0.3"/>
+				<rect x="93.1" y="99.1" clip-path="url(#SVGID_6_)" fill="#FF8930" width="29.9" height="0.3"/>
+				<rect x="93.1" y="98.8" clip-path="url(#SVGID_6_)" fill="#FF8A31" width="29.9" height="0.3"/>
+				<rect x="93.1" y="98.6" clip-path="url(#SVGID_6_)" fill="#FF8B31" width="29.9" height="0.3"/>
+				<rect x="93.1" y="98.3" clip-path="url(#SVGID_6_)" fill="#FF8C32" width="29.9" height="0.3"/>
+				<rect x="93.1" y="98" clip-path="url(#SVGID_6_)" fill="#FF8D33" width="29.9" height="0.3"/>
+				<rect x="93.1" y="97.8" clip-path="url(#SVGID_6_)" fill="#FF8E33" width="29.9" height="0.3"/>
+				<rect x="93.1" y="97.5" clip-path="url(#SVGID_6_)" fill="#FF8F34" width="29.9" height="0.3"/>
+				<rect x="93.1" y="97.3" clip-path="url(#SVGID_6_)" fill="#FF9034" width="29.9" height="0.3"/>
+				<rect x="93.1" y="97" clip-path="url(#SVGID_6_)" fill="#FF9135" width="29.9" height="0.3"/>
+				<rect x="93.1" y="96.7" clip-path="url(#SVGID_6_)" fill="#FF9236" width="29.9" height="0.3"/>
+				<rect x="93.1" y="96.5" clip-path="url(#SVGID_6_)" fill="#FF9336" width="29.9" height="0.3"/>
+				<rect x="93.1" y="96.2" clip-path="url(#SVGID_6_)" fill="#FF9437" width="29.9" height="0.3"/>
+				<rect x="93.1" y="95.9" clip-path="url(#SVGID_6_)" fill="#FF9537" width="29.9" height="0.3"/>
+				<rect x="93.1" y="95.7" clip-path="url(#SVGID_6_)" fill="#FF9738" width="29.9" height="0.3"/>
+				<rect x="93.1" y="95.4" clip-path="url(#SVGID_6_)" fill="#FF9839" width="29.9" height="0.3"/>
+				<rect x="93.1" y="95.2" clip-path="url(#SVGID_6_)" fill="#FF9939" width="29.9" height="0.3"/>
+				<rect x="93.1" y="94.9" clip-path="url(#SVGID_6_)" fill="#FF9A3A" width="29.9" height="0.3"/>
+				<rect x="93.1" y="94.6" clip-path="url(#SVGID_6_)" fill="#FF9B3A" width="29.9" height="0.3"/>
+				<rect x="93.1" y="94.4" clip-path="url(#SVGID_6_)" fill="#FF9C3B" width="29.9" height="0.3"/>
+				<rect x="93.1" y="94.1" clip-path="url(#SVGID_6_)" fill="#FF9D3C" width="29.9" height="0.3"/>
+				<rect x="93.1" y="93.9" clip-path="url(#SVGID_6_)" fill="#FF9E3C" width="29.9" height="0.3"/>
+				<rect x="93.1" y="93.6" clip-path="url(#SVGID_6_)" fill="#FF9F3D" width="29.9" height="0.3"/>
+				<rect x="93.1" y="93.3" clip-path="url(#SVGID_6_)" fill="#FFA03E" width="29.9" height="0.3"/>
+				<rect x="93.1" y="93.1" clip-path="url(#SVGID_6_)" fill="#FFA13E" width="29.9" height="0.3"/>
+				<rect x="93.1" y="92.8" clip-path="url(#SVGID_6_)" fill="#FFA23F" width="29.9" height="0.3"/>
+				<rect x="93.1" y="92.6" clip-path="url(#SVGID_6_)" fill="#FFA33F" width="29.9" height="0.3"/>
+				<rect x="93.1" y="92.3" clip-path="url(#SVGID_6_)" fill="#FFA440" width="29.9" height="0.3"/>
+				<rect x="93.1" y="92" clip-path="url(#SVGID_6_)" fill="#FFA541" width="29.9" height="0.3"/>
+				<rect x="93.1" y="91.8" clip-path="url(#SVGID_6_)" fill="#FFA641" width="29.9" height="0.3"/>
+				<rect x="93.1" y="91.5" clip-path="url(#SVGID_6_)" fill="#FFA742" width="29.9" height="0.3"/>
+				<rect x="93.1" y="91.3" clip-path="url(#SVGID_6_)" fill="#FFA842" width="29.9" height="0.3"/>
+				<rect x="93.1" y="91" clip-path="url(#SVGID_6_)" fill="#FFA943" width="29.9" height="0.3"/>
+				<rect x="93.1" y="90.7" clip-path="url(#SVGID_6_)" fill="#FFAA44" width="29.9" height="0.3"/>
+				<rect x="93.1" y="90.5" clip-path="url(#SVGID_6_)" fill="#FFAB44" width="29.9" height="0.3"/>
+				<rect x="93.1" y="90.2" clip-path="url(#SVGID_6_)" fill="#FFAC45" width="29.9" height="0.3"/>
+				<rect x="93.1" y="90" clip-path="url(#SVGID_6_)" fill="#FFAD45" width="29.9" height="0.3"/>
+				<rect x="93.1" y="89.7" clip-path="url(#SVGID_6_)" fill="#FFAE46" width="29.9" height="0.3"/>
+				<rect x="93.1" y="89.4" clip-path="url(#SVGID_6_)" fill="#FFAF47" width="29.9" height="0.3"/>
+				<rect x="93.1" y="89.2" clip-path="url(#SVGID_6_)" fill="#FFB047" width="29.9" height="0.3"/>
+				<rect x="93.1" y="88.9" clip-path="url(#SVGID_6_)" fill="#FFB148" width="29.9" height="0.3"/>
+				<rect x="93.1" y="88.6" clip-path="url(#SVGID_6_)" fill="#FFB249" width="29.9" height="0.3"/>
+				<rect x="93.1" y="88.4" clip-path="url(#SVGID_6_)" fill="#FFB349" width="29.9" height="0.3"/>
+				<rect x="93.1" y="88.1" clip-path="url(#SVGID_6_)" fill="#FFB44A" width="29.9" height="0.3"/>
+				<rect x="93.1" y="87.9" clip-path="url(#SVGID_6_)" fill="#FFB54A" width="29.9" height="0.3"/>
+				<rect x="93.1" y="87.6" clip-path="url(#SVGID_6_)" fill="#FFB64B" width="29.9" height="0.3"/>
+				<rect x="93.1" y="87.3" clip-path="url(#SVGID_6_)" fill="#FFB74C" width="29.9" height="0.3"/>
+				<rect x="93.1" y="87.1" clip-path="url(#SVGID_6_)" fill="#FFB84C" width="29.9" height="0.3"/>
+				<rect x="93.1" y="86.8" clip-path="url(#SVGID_6_)" fill="#FFB94D" width="29.9" height="0.3"/>
+				<rect x="93.1" y="86.6" clip-path="url(#SVGID_6_)" fill="#FFBA4D" width="29.9" height="0.3"/>
+				<rect x="93.1" y="86.3" clip-path="url(#SVGID_6_)" fill="#FFBB4E" width="29.9" height="0.3"/>
+				<rect x="93.1" y="56.5" clip-path="url(#SVGID_6_)" fill="#FFBB4E" width="29.9" height="29.8"/>
+			</g>
+		</g>
+		<g>
+			<polygon fill="#FFFFFF" points="136.7,115.8 98,113.5 106.6,72.3 129.5,77 			"/>
+		</g>
+		<g>
+			<g>
+				<path fill="#FF6D1F" d="M123,60.7l12-33c0.3-0.8,0.8-0.6,0.7,0.2L129,62.4L123,60.7z"/>
+			</g>
+			<g>
+				<g>
+					<polygon fill="#FFC5A5" points="124.7,56.1 129.4,60.1 130.1,56.4 125.9,52.8 					"/>
+				</g>
+				<g>
+					<polygon fill="#FFC5A5" points="123.5,59.3 123,60.7 126.2,61.6 					"/>
+				</g>
+				<g>
+					<path fill="#FFC5A5" d="M135.1,31l0.6-3c0.2-0.8-0.4-0.9-0.7-0.2l-0.8,2.1L135.1,31z"/>
+				</g>
+				<g>
+					<polygon fill="#FFC5A5" points="131.9,36.3 133.6,38.5 134.4,34.7 133.1,33.1 					"/>
+				</g>
+				<g>
+					<polygon fill="#FFC5A5" points="129.5,43.1 132.3,45.5 133,41.8 130.7,39.8 					"/>
+				</g>
+				<g>
+					<polygon fill="#FFC5A5" points="127.1,49.6 130.8,52.8 131.6,49.1 128.3,46.3 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M163.7,72.6c0,0-22.4,15.1-34.7,15.5s-22.5-5.7-22.7-13.7s9.5-14.7,21.8-15.1
+				C140.3,58.9,169.2,64.1,163.7,72.6z"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M128.5,138.6l28.6,4.4l4.3,28.9l-0.8,4.1l-5.4,0c-0.5,0-0.8-0.5-0.5-0.9l2-3.2l-4.3-22.8l-31.6-0.6
+				L128.5,138.6z"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M94.1,162.3l-29,34l13.6,21.6l5,7l-6.7,0c-0.7,0-1.4-0.5-1.6-1.2l-1.4-5.8l-16.7-21.6l4.2-19.8l0.3-11.4
+				L94.1,162.3z"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M115.1,65.3l6.6-14.8c0.2-0.5,1-0.4,1.1,0.2l1.3,11.9L115.1,65.3z"/>
+		</g>
+		<g opacity="7.000000e-02">
+			<polygon fill="#231F20" points="58.5,190.7 74.8,184.9 94.1,162.3 64.4,164.3 			"/>
+		</g>
+		<g>
+			<g opacity="0.5">
+				<g>
+					<defs>
+						<path id="SVGID_359_" d="M139.9,63.6c0.6,3.8,1.3,4.4-0.7,5.1l-5.2,2c-0.5,0.2-1.1,0-1.4-0.5l-3.1-5.8
+							c-0.2-0.5,0.1-1.1,0.6-1.3l9.1-3.6L139.9,63.6"/>
+					</defs>
+					<clipPath id="SVGID_7_">
+						<use xlink:href="#SVGID_359_"  overflow="visible"/>
+					</clipPath>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF6D1F" points="139.2,59.6 129.3,63.4 129.3,59.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF6D1F" points="139.6,59.6 129.3,63.6 129.3,63.4 139.2,59.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF6E1F" points="140,59.6 129.3,63.7 129.3,63.6 139.6,59.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF6F1F" points="140.3,59.6 129.3,63.9 129.3,63.7 140,59.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF711F" points="140.7,59.6 129.3,64 129.3,63.9 140.3,59.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF721F" points="141,59.6 141,59.6 129.3,64.2 129.3,64 140.7,59.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF731F" points="141,59.6 141.1,59.7 129.3,64.3 129.3,64.2 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF741F" points="141.1,59.7 141.1,59.8 129.3,64.5 129.3,64.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF751F" points="141.1,59.8 141.1,59.9 141.1,60 129.3,64.6 129.3,64.5 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF761F" points="141.1,60.1 129.3,64.8 129.3,64.6 141.1,60 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7820" points="141.1,60.3 129.3,64.9 129.3,64.8 141.1,60.1 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7920" points="141.1,60.4 129.3,65.1 129.3,64.9 141.1,60.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7A20" points="141.1,60.6 129.3,65.2 129.3,65.1 141.1,60.4 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7B20" points="141.1,60.7 129.3,65.4 129.3,65.2 141.1,60.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7C20" points="141.1,60.9 129.3,65.5 129.3,65.4 141.1,60.7 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7D20" points="141.1,61 129.3,65.7 129.3,65.5 141.1,60.9 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF7F20" points="141.1,61.2 129.3,65.8 129.3,65.7 141.1,61 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8020" points="141.1,61.3 129.3,66 129.3,65.8 141.1,61.2 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8120" points="141.1,61.5 129.3,66.1 129.3,66 141.1,61.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8220" points="141.1,61.6 129.3,66.3 129.3,66.1 141.1,61.5 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8320" points="141.1,61.8 129.3,66.4 129.3,66.3 141.1,61.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8420" points="141.1,61.9 129.3,66.6 129.3,66.4 141.1,61.8 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8520" points="141.1,62.1 129.3,66.7 129.3,66.6 141.1,61.9 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8620" points="141.1,62.2 129.3,66.9 129.3,66.7 141.1,62.1 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8720" points="141.1,62.4 129.3,67 129.3,66.9 141.1,62.2 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8920" points="141.1,62.5 129.3,67.1 129.3,67 141.1,62.4 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8A20" points="141.1,62.7 129.3,67.3 129.3,67.1 141.1,62.5 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8B20" points="141.1,62.8 129.3,67.4 129.3,67.3 141.1,62.7 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8C21" points="141.1,63 129.3,67.6 129.3,67.4 141.1,62.8 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8D21" points="141.1,63.1 129.3,67.7 129.3,67.6 141.1,63 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8E21" points="141.1,63.3 129.3,67.9 129.3,67.7 141.1,63.1 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF8F21" points="141.1,63.4 129.3,68 129.3,67.9 141.1,63.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9021" points="141.1,63.6 129.3,68.2 129.3,68 141.1,63.4 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9121" points="141.1,63.7 129.3,68.3 129.3,68.2 141.1,63.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9221" points="141.1,63.9 129.3,68.5 129.3,68.3 141.1,63.7 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9321" points="141.1,64 129.4,68.6 129.3,68.5 129.3,68.5 141.1,63.9 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9421" points="141.1,64.2 129.4,68.8 129.4,68.6 141.1,64 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9521" points="141.1,64.3 129.5,68.9 129.4,68.8 141.1,64.2 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9621" points="141.1,64.5 129.5,69 129.5,68.9 141.1,64.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9721" points="141.1,64.6 129.6,69.1 129.5,69 141.1,64.5 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9821" points="141.1,64.8 129.6,69.3 129.6,69.1 141.1,64.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9921" points="141.1,64.9 129.7,69.4 129.6,69.3 141.1,64.8 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9A21" points="141.1,65.1 129.7,69.5 129.7,69.4 141.1,64.9 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9B21" points="141.1,65.2 129.8,69.7 129.7,69.5 141.1,65.1 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9C21" points="141.1,65.4 129.8,69.8 129.8,69.7 141.1,65.2 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9D21" points="141.1,65.5 129.9,69.9 129.8,69.8 141.1,65.4 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9E21" points="141.1,65.7 129.9,70.1 129.9,69.9 141.1,65.5 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FF9F21" points="141.1,65.8 130,70.2 129.9,70.1 141.1,65.7 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA022" points="141.1,66 130,70.3 130,70.2 141.1,65.8 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA122" points="141.1,66.1 130.1,70.4 130,70.3 141.1,66 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA222" points="141.1,66.3 130.1,70.6 130.1,70.4 141.1,66.1 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA322" points="141.1,66.4 130.2,70.7 130.1,70.6 141.1,66.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA322" points="141.1,66.6 130.2,70.8 130.2,70.7 141.1,66.4 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA422" points="141.1,66.7 130.4,70.9 130.2,70.9 130.2,70.8 141.1,66.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA522" points="141.1,66.9 130.8,70.9 130.4,70.9 141.1,66.7 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA622" points="141.1,67 131.2,70.9 130.8,70.9 141.1,66.9 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA722" points="141.1,67.2 131.6,70.9 131.2,70.9 141.1,67 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA722" points="141.1,67.3 132,70.9 131.6,70.9 141.1,67.2 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA822" points="141.1,67.5 132.4,70.9 132,70.9 141.1,67.3 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFA922" points="141.1,67.6 132.7,70.9 132.4,70.9 141.1,67.5 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFAA22" points="141.1,67.8 133.1,70.9 132.7,70.9 141.1,67.6 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFAA22" points="141.1,67.9 133.5,70.9 133.1,70.9 141.1,67.8 					"/>
+					<polygon clip-path="url(#SVGID_7_)" fill="#FFAA22" points="133.5,70.9 141.1,67.9 141.1,70.9 					"/>
+				</g>
+			</g>
+			<g>
+				<g>
+					<path fill="#FF8A4C" d="M133.6,71.3c-0.6,0-1.1-0.3-1.4-0.8l-3.2-5.9c-0.2-0.4-0.2-0.8,0-1.1s0.4-0.6,0.8-0.8l9.8-3.8l0.8,4.6
+						c0.1,0.8,0.3,1.5,0.4,2c0.4,2.1,0.6,2.9-1.3,3.6l-5.3,2.1C134,71.3,133.8,71.3,133.6,71.3z M138.9,60l-8.8,3.4
+						c-0.3,0.1-0.4,0.5-0.3,0.8l3.2,5.9c0.2,0.3,0.6,0.5,0.9,0.3l5.3-2.1c1.2-0.5,1.2-0.6,0.8-2.7c-0.1-0.6-0.2-1.2-0.4-2.1
+						L138.9,60z"/>
+				</g>
+				<g>
+					
+						<rect x="139.4" y="57.8" transform="matrix(0.3641 0.9313 -0.9313 0.3641 144.0671 -92.6204)" fill="#FF8A4C" width="0.8" height="2.8"/>
+				</g>
+				<g>
+					
+						<rect x="140" y="59.2" transform="matrix(0.3641 0.9313 -0.9313 0.3641 145.359 -92.515)" fill="#FF8A4C" width="0.8" height="2.1"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M124,147.4l8.8,28.2l-19.1,22.5l-4.3,1.6l-3.4-4.8c-0.4-0.6-0.1-1.4,0.6-1.6l4.8-0.6l13.7-17.1
+				l-18.7-25.4L124,147.4z"/>
+		</g>
+		<g>
+			<g>
+				<defs>
+					<polygon id="SVGID_361_" points="41.2,139.5 29,143.6 32.6,144.2 25.3,153.3 29,153.3 22.9,168 26.4,168 20.9,178.4 
+						25.3,176.5 26.4,183.6 31.1,177.9 33.3,180.5 35.2,170.6 37.9,172 37.9,162.3 40.7,161.5 39.1,146 41.8,141.8 					"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_361_"  overflow="visible"/>
+				</clipPath>
+				<rect x="20.9" y="183.2" clip-path="url(#SVGID_8_)" fill="#FF6D1F" width="20.8" height="0.3"/>
+				<rect x="20.9" y="183" clip-path="url(#SVGID_8_)" fill="#FF6D1F" width="20.8" height="0.2"/>
+				<rect x="20.9" y="182.8" clip-path="url(#SVGID_8_)" fill="#FF6E20" width="20.8" height="0.2"/>
+				<rect x="20.9" y="182.6" clip-path="url(#SVGID_8_)" fill="#FF6F20" width="20.8" height="0.2"/>
+				<rect x="20.9" y="182.3" clip-path="url(#SVGID_8_)" fill="#FF7021" width="20.8" height="0.2"/>
+				<rect x="20.9" y="182.1" clip-path="url(#SVGID_8_)" fill="#FF7121" width="20.8" height="0.2"/>
+				<rect x="20.9" y="181.9" clip-path="url(#SVGID_8_)" fill="#FF7222" width="20.8" height="0.2"/>
+				<rect x="20.9" y="181.6" clip-path="url(#SVGID_8_)" fill="#FF7323" width="20.8" height="0.2"/>
+				<rect x="20.9" y="181.4" clip-path="url(#SVGID_8_)" fill="#FF7423" width="20.8" height="0.2"/>
+				<rect x="20.9" y="181.2" clip-path="url(#SVGID_8_)" fill="#FF7524" width="20.8" height="0.2"/>
+				<rect x="20.9" y="181" clip-path="url(#SVGID_8_)" fill="#FF7624" width="20.8" height="0.2"/>
+				<rect x="20.9" y="180.7" clip-path="url(#SVGID_8_)" fill="#FF7725" width="20.8" height="0.2"/>
+				<rect x="20.9" y="180.5" clip-path="url(#SVGID_8_)" fill="#FF7826" width="20.8" height="0.2"/>
+				<rect x="20.9" y="180.3" clip-path="url(#SVGID_8_)" fill="#FF7926" width="20.8" height="0.2"/>
+				<rect x="20.9" y="180.1" clip-path="url(#SVGID_8_)" fill="#FF7A27" width="20.8" height="0.2"/>
+				<rect x="20.9" y="179.8" clip-path="url(#SVGID_8_)" fill="#FF7B28" width="20.8" height="0.2"/>
+				<rect x="20.9" y="179.6" clip-path="url(#SVGID_8_)" fill="#FF7C28" width="20.8" height="0.2"/>
+				<rect x="20.9" y="179.4" clip-path="url(#SVGID_8_)" fill="#FF7D29" width="20.8" height="0.2"/>
+				<rect x="20.9" y="179.1" clip-path="url(#SVGID_8_)" fill="#FF7E29" width="20.8" height="0.2"/>
+				<rect x="20.9" y="178.9" clip-path="url(#SVGID_8_)" fill="#FF7F2A" width="20.8" height="0.2"/>
+				<rect x="20.9" y="178.7" clip-path="url(#SVGID_8_)" fill="#FF802B" width="20.8" height="0.2"/>
+				<rect x="20.9" y="178.5" clip-path="url(#SVGID_8_)" fill="#FF812B" width="20.8" height="0.2"/>
+				<rect x="20.9" y="178.2" clip-path="url(#SVGID_8_)" fill="#FF822C" width="20.8" height="0.2"/>
+				<rect x="20.9" y="178" clip-path="url(#SVGID_8_)" fill="#FF832C" width="20.8" height="0.2"/>
+				<rect x="20.9" y="177.8" clip-path="url(#SVGID_8_)" fill="#FF842D" width="20.8" height="0.2"/>
+				<rect x="20.9" y="177.6" clip-path="url(#SVGID_8_)" fill="#FF852E" width="20.8" height="0.2"/>
+				<rect x="20.9" y="177.3" clip-path="url(#SVGID_8_)" fill="#FF862E" width="20.8" height="0.2"/>
+				<rect x="20.9" y="177.1" clip-path="url(#SVGID_8_)" fill="#FF872F" width="20.8" height="0.2"/>
+				<rect x="20.9" y="176.9" clip-path="url(#SVGID_8_)" fill="#FF882F" width="20.8" height="0.2"/>
+				<rect x="20.9" y="176.6" clip-path="url(#SVGID_8_)" fill="#FF8930" width="20.8" height="0.2"/>
+				<rect x="20.9" y="176.4" clip-path="url(#SVGID_8_)" fill="#FF8A31" width="20.8" height="0.2"/>
+				<rect x="20.9" y="176.2" clip-path="url(#SVGID_8_)" fill="#FF8B31" width="20.8" height="0.2"/>
+				<rect x="20.9" y="176" clip-path="url(#SVGID_8_)" fill="#FF8C32" width="20.8" height="0.2"/>
+				<rect x="20.9" y="175.7" clip-path="url(#SVGID_8_)" fill="#FF8D33" width="20.8" height="0.2"/>
+				<rect x="20.9" y="175.5" clip-path="url(#SVGID_8_)" fill="#FF8E33" width="20.8" height="0.2"/>
+				<rect x="20.9" y="175.3" clip-path="url(#SVGID_8_)" fill="#FF8F34" width="20.8" height="0.2"/>
+				<rect x="20.9" y="175.1" clip-path="url(#SVGID_8_)" fill="#FF9034" width="20.8" height="0.2"/>
+				<rect x="20.9" y="174.8" clip-path="url(#SVGID_8_)" fill="#FF9135" width="20.8" height="0.2"/>
+				<rect x="20.9" y="174.6" clip-path="url(#SVGID_8_)" fill="#FF9236" width="20.8" height="0.2"/>
+				<rect x="20.9" y="174.4" clip-path="url(#SVGID_8_)" fill="#FF9336" width="20.8" height="0.2"/>
+				<rect x="20.9" y="174.1" clip-path="url(#SVGID_8_)" fill="#FF9437" width="20.8" height="0.2"/>
+				<rect x="20.9" y="173.9" clip-path="url(#SVGID_8_)" fill="#FF9537" width="20.8" height="0.2"/>
+				<rect x="20.9" y="173.7" clip-path="url(#SVGID_8_)" fill="#FF9738" width="20.8" height="0.2"/>
+				<rect x="20.9" y="173.5" clip-path="url(#SVGID_8_)" fill="#FF9839" width="20.8" height="0.2"/>
+				<rect x="20.9" y="173.2" clip-path="url(#SVGID_8_)" fill="#FF9939" width="20.8" height="0.2"/>
+				<rect x="20.9" y="173" clip-path="url(#SVGID_8_)" fill="#FF9A3A" width="20.8" height="0.2"/>
+				<rect x="20.9" y="172.8" clip-path="url(#SVGID_8_)" fill="#FF9B3A" width="20.8" height="0.2"/>
+				<rect x="20.9" y="172.6" clip-path="url(#SVGID_8_)" fill="#FF9C3B" width="20.8" height="0.2"/>
+				<rect x="20.9" y="172.3" clip-path="url(#SVGID_8_)" fill="#FF9D3C" width="20.8" height="0.2"/>
+				<rect x="20.9" y="172.1" clip-path="url(#SVGID_8_)" fill="#FF9E3C" width="20.8" height="0.2"/>
+				<rect x="20.9" y="171.9" clip-path="url(#SVGID_8_)" fill="#FF9F3D" width="20.8" height="0.2"/>
+				<rect x="20.9" y="171.6" clip-path="url(#SVGID_8_)" fill="#FFA03E" width="20.8" height="0.2"/>
+				<rect x="20.9" y="171.4" clip-path="url(#SVGID_8_)" fill="#FFA13E" width="20.8" height="0.2"/>
+				<rect x="20.9" y="171.2" clip-path="url(#SVGID_8_)" fill="#FFA23F" width="20.8" height="0.2"/>
+				<rect x="20.9" y="171" clip-path="url(#SVGID_8_)" fill="#FFA33F" width="20.8" height="0.2"/>
+				<rect x="20.9" y="170.7" clip-path="url(#SVGID_8_)" fill="#FFA440" width="20.8" height="0.2"/>
+				<rect x="20.9" y="170.5" clip-path="url(#SVGID_8_)" fill="#FFA541" width="20.8" height="0.2"/>
+				<rect x="20.9" y="170.3" clip-path="url(#SVGID_8_)" fill="#FFA641" width="20.8" height="0.2"/>
+				<rect x="20.9" y="170.1" clip-path="url(#SVGID_8_)" fill="#FFA742" width="20.8" height="0.2"/>
+				<rect x="20.9" y="169.8" clip-path="url(#SVGID_8_)" fill="#FFA842" width="20.8" height="0.2"/>
+				<rect x="20.9" y="169.6" clip-path="url(#SVGID_8_)" fill="#FFA943" width="20.8" height="0.2"/>
+				<rect x="20.9" y="169.4" clip-path="url(#SVGID_8_)" fill="#FFAA44" width="20.8" height="0.2"/>
+				<rect x="20.9" y="169.1" clip-path="url(#SVGID_8_)" fill="#FFAB44" width="20.8" height="0.2"/>
+				<rect x="20.9" y="168.9" clip-path="url(#SVGID_8_)" fill="#FFAC45" width="20.8" height="0.2"/>
+				<rect x="20.9" y="168.7" clip-path="url(#SVGID_8_)" fill="#FFAD45" width="20.8" height="0.2"/>
+				<rect x="20.9" y="168.5" clip-path="url(#SVGID_8_)" fill="#FFAE46" width="20.8" height="0.2"/>
+				<rect x="20.9" y="168.2" clip-path="url(#SVGID_8_)" fill="#FFAF47" width="20.8" height="0.2"/>
+				<rect x="20.9" y="168" clip-path="url(#SVGID_8_)" fill="#FFB047" width="20.8" height="0.2"/>
+				<rect x="20.9" y="167.8" clip-path="url(#SVGID_8_)" fill="#FFB148" width="20.8" height="0.2"/>
+				<rect x="20.9" y="167.5" clip-path="url(#SVGID_8_)" fill="#FFB249" width="20.8" height="0.2"/>
+				<rect x="20.9" y="167.3" clip-path="url(#SVGID_8_)" fill="#FFB349" width="20.8" height="0.2"/>
+				<rect x="20.9" y="167.1" clip-path="url(#SVGID_8_)" fill="#FFB44A" width="20.8" height="0.2"/>
+				<rect x="20.9" y="166.9" clip-path="url(#SVGID_8_)" fill="#FFB54A" width="20.8" height="0.2"/>
+				<rect x="20.9" y="166.6" clip-path="url(#SVGID_8_)" fill="#FFB64B" width="20.8" height="0.2"/>
+				<rect x="20.9" y="166.4" clip-path="url(#SVGID_8_)" fill="#FFB74C" width="20.8" height="0.2"/>
+				<rect x="20.9" y="166.2" clip-path="url(#SVGID_8_)" fill="#FFB84C" width="20.8" height="0.2"/>
+				<rect x="20.9" y="166" clip-path="url(#SVGID_8_)" fill="#FFB94D" width="20.8" height="0.2"/>
+				<rect x="20.9" y="165.7" clip-path="url(#SVGID_8_)" fill="#FFBA4D" width="20.8" height="0.2"/>
+				<rect x="20.9" y="165.5" clip-path="url(#SVGID_8_)" fill="#FFBB4E" width="20.8" height="0.2"/>
+				<rect x="20.9" y="139.5" clip-path="url(#SVGID_8_)" fill="#FFBB4E" width="20.8" height="26"/>
+			</g>
+		</g>
+		<g opacity="7.000000e-02">
+			<polygon fill="#231F20" points="133.2,148.8 136.5,140 133.2,139.5 123.7,148.7 			"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M80.1,162.3l-29,34l3.1,21.6l3.7,7l-6.2,0c-0.9,0-1.6-0.6-1.7-1.5l-0.1-5.5l-6.6-21.6l6-27l-1.5-7H80.1z"
+				/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M102.7,112.1c0,0-43.2,8.8-57.5,20.6C32.7,143,47,169.1,61.8,171.8c14.8,2.7,66.4-19.2,71.5-26.2
+				c5-7,7.3-13.4,3.2-31.7S102.7,112.1,102.7,112.1z"/>
+		</g>
+		<g>
+			<g>
+				<ellipse fill="#F1F1F2" cx="131.3" cy="129.6" rx="6.9" ry="12.3"/>
+			</g>
+			<g opacity="0.1">
+				<path fill="#231F20" d="M135,134.3h-5.4c-0.3,0-0.6-0.3-0.6-0.6v-5.2c0-0.3,0.3-0.6,0.6-0.6h5.4c0.3,0,0.6,0.3,0.6,0.6v5.2
+					C135.6,134.1,135.4,134.3,135,134.3z"/>
+			</g>
+			<g>
+				<path fill="#FFDF7A" d="M135,134h-5.4c-0.3,0-0.6-0.3-0.6-0.6v-5.2c0-0.3,0.3-0.6,0.6-0.6h5.4c0.3,0,0.6,0.3,0.6,0.6v5.2
+					C135.6,133.7,135.4,134,135,134z"/>
+			</g>
+			<g>
+				<ellipse fill="#FFD54E" cx="130.4" cy="124.7" rx="0.4" ry="0.8"/>
+			</g>
+			<g>
+				<ellipse fill="#FFD54E" cx="132.2" cy="124.7" rx="0.4" ry="0.8"/>
+			</g>
+			<g>
+				<ellipse fill="#FFD54E" cx="134" cy="124.7" rx="0.4" ry="0.8"/>
+			</g>
+			<g>
+				<path fill="#BBBDBF" d="M127.2,128.4h0.7c0.2,0,0.4,0.2,0.4,0.4v0.3c0,0.2-0.2,0.4-0.4,0.4h-0.7c-0.2,0-0.4-0.2-0.4-0.4v-0.3
+					C126.7,128.6,126.9,128.4,127.2,128.4z"/>
+			</g>
+			<g>
+				<path fill="#BBBDBF" d="M127.2,131h0.7c0.2,0,0.4,0.2,0.4,0.4v0.3c0,0.2-0.2,0.4-0.4,0.4h-0.7c-0.2,0-0.4-0.2-0.4-0.4v-0.3
+					C126.7,131.2,126.9,131,127.2,131z"/>
+			</g>
+		</g>
+		<g>
+			<path fill="#D0D2D3" d="M50,223.4c0.1,0.8,0.8,1.5,1.7,1.5l6.2,0l-1.9-3.6h-6L50,223.4z"/>
+		</g>
+		<g>
+			<path fill="#D0D2D3" d="M75.4,223.7c0.2,0.7,0.8,1.2,1.6,1.2l6.7,0l-2.6-3.6h-6.3L75.4,223.7z"/>
+		</g>
+		<g>
+			<path fill="#D0D2D3" d="M112.7,198.5L109,193l-2.4,0.3c-0.7,0.2-1,1-0.6,1.6l3.4,4.8L112.7,198.5z"/>
+		</g>
+		<g>
+			<path fill="#D0D2D3" d="M155.8,173.3l-1.1,1.8c-0.3,0.4,0,0.9,0.5,0.9l5.4,0l0.6-2.8H155.8z"/>
+		</g>
+		<g opacity="9.000000e-02">
+			<polygon fill="#231F20" points="131.7,89 127.9,88.4 134.7,105 			"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M135.2,89.1c0,0-10.4,0.2-11.4-3.2s2.4-7.4,7.7-9c5.3-1.6,10.4-0.2,11.4,3.2
+				C143.9,83.5,140.4,87.5,135.2,89.1"/>
+		</g>
+		<g>
+			<path fill="#FFDDA7" d="M119.3,60.9l2.2-6.1c0.1-0.2,0.5-0.2,0.6,0l0.6,4.8"/>
+		</g>
+		<g>
+			<g>
+				<rect x="97.7" y="41.3" fill="#FFC5A5" width="0.6" height="2.6"/>
+			</g>
+			<g>
+				<rect x="96.7" y="42.3" fill="#FFC5A5" width="2.6" height="0.6"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<rect x="145.3" y="95.4" fill="#FFC5A5" width="0.6" height="2.6"/>
+			</g>
+			<g>
+				<rect x="144.3" y="96.4" fill="#FFC5A5" width="2.6" height="0.6"/>
+			</g>
+		</g>
+		<g>
+			<rect x="80" y="90" fill="#FFDF7A" width="2.7" height="0.6"/>
+		</g>
+		<g>
+			<rect x="145.6" y="42.3" fill="#FFCA22" width="2.7" height="0.6"/>
+		</g>
+		<g>
+			<polygon fill="#FFDDA7" points="76.6,62.4 74.2,68.8 76.1,68.5 74.6,73.6 78.5,66.8 76,67.2 			"/>
+		</g>
+		<g>
+			<polygon fill="#FFE2D2" points="171.5,84.7 169.1,91.1 171,90.8 169.5,95.9 173.4,89 170.9,89.4 			"/>
+		</g>
+		<g>
+			<g>
+				<rect x="177.1" y="60.3" fill="#FFD54E" width="0.6" height="2.6"/>
+			</g>
+			<g>
+				<rect x="176.1" y="61.3" fill="#FFD54E" width="2.6" height="0.6"/>
+			</g>
+		</g>
+		<g opacity="9.000000e-02">
+			<path fill="#231F20" d="M157.1,76.7l-14.1,6.4l-0.8,1.3C147.6,82.1,153,79.1,157.1,76.7z"/>
+		</g>
+	</g>
+</g>
+<g id="grid">
+</g>
+</svg>

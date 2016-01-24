@@ -21,7 +21,9 @@
 		"jasmine": true,
 		"angular": true,
 		"ApplicationConfiguration": true,
-	    "io": true
+	    "io": true,
+	  	"MediumEditor": true,
+	  	"ZeroClipboard": true
 	},
 	"predef": [ // Extra globals.
 		"define",

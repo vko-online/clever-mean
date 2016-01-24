@@ -4,13 +4,13 @@
   "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
   "dependencies": {
     "bootstrap": "~3",
-    "angular": "~1.2",
-    "angular-resource": "~1.2",
-    "angular-mocks": "~1.2",
-    "angular-cookies": "~1.2",
-    "angular-animate": "~1.2",
-    "angular-touch": "~1.2",
-    "angular-sanitize": "~1.2",
+    "angular": "~1.3",
+    "angular-resource": "~1.3",
+    "angular-mocks": "~1.3",
+    "angular-cookies": "~1.3",
+    "angular-animate": "~1.3",
+    "angular-touch": "~1.3",
+    "angular-sanitize": "~1.3",
     "angular-bootstrap": "~0.11.2",
     "angular-ui-utils": "~0.1.1",
     "angular-ui-router": "~0.2.11",
@@ -21,9 +21,16 @@
     "randomcolor": "~0.4.2",
     "Angular-Hero": "angular-hero#~0.0.7",
     "angular-socket-io": "~0.7.0",
-    "fullpage.js": "~2.7.6"
+    "fullpage.js": "~2.7.6",
+    "font-awesome": "~4.5.0",
+    "ng-tags-input": "~3.0.0",
+    "jparallax": "stephband/jparallax#~2.0.3",
+    "less": "~2.5.3",
+    "zeroclipboard": "~2.2.0",
+    "ngToast": "ngtoast#~1.5.6"
   },
   "resolutions": {
-    "angular-animate": "~1.2"
+    "angular-animate": "~1.3",
+    "angular": "~1.3"
   }
 }

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px"
+	 height="200px" viewBox="0 0 150 200" enable-background="new 0 0 150 200" xml:space="preserve">
+<g id="Dev" display="none">
+	<g display="inline">
+		<g>
+			<path fill="#858D93" d="M179.1,136.2c-1.4,0-2.4,1.1-2.4,2.4c0,1.3,1.1,2.4,2.4,2.4c1.4,0,2.4-1.1,2.4-2.4
+				C181.6,137.3,180.5,136.2,179.1,136.2z M179.1,139.6c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1c0.5,0,1,0.4,1,1
+				C180.1,139.1,179.7,139.6,179.1,139.6z M202.1,136.2c-1.4,0-2.4,1.1-2.4,2.4c0,1.3,1.1,2.4,2.4,2.4c1.4,0,2.4-1.1,2.4-2.4
+				C204.6,137.3,203.5,136.2,202.1,136.2z M202.1,139.6c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1s1,0.4,1,1
+				C203.1,139.1,202.7,139.6,202.1,139.6z M209.3,137.2V123h-25.7v4.4l-4.9,1.8v2.3l-4.1,1l0,0.4H174v1.7h0.7l0.2,2.6h-1.2v1h2.1
+				c0.2-1.6,1.7-2.9,3.4-2.9c1.7,0,3.1,1.3,3.4,2.9h16.2c0.2-1.6,1.7-2.9,3.4-2.9c1.7,0,3.1,1.3,3.4,2.9h5.1v-1H209.3z M183.6,131.7
+				l-3.9-0.2v-1.8l3.9-1.4V131.7z"/>
+		</g>
+	</g>
+	<g display="inline">
+		<g>
+			<path fill="#858D93" d="M179.1,113.2c-1.4,0-2.4,1.1-2.4,2.4c0,1.3,1.1,2.4,2.4,2.4c1.4,0,2.4-1.1,2.4-2.4
+				C181.6,114.3,180.5,113.2,179.1,113.2z M179.1,116.6c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1c0.5,0,1,0.4,1,1
+				C180.1,116.1,179.7,116.6,179.1,116.6z M202.1,113.2c-1.4,0-2.4,1.1-2.4,2.4c0,1.3,1.1,2.4,2.4,2.4c1.4,0,2.4-1.1,2.4-2.4
+				C204.6,114.3,203.5,113.2,202.1,113.2z M202.1,116.6c-0.5,0-1-0.4-1-1c0-0.5,0.4-1,1-1s1,0.4,1,1
+				C203.1,116.1,202.7,116.6,202.1,116.6z M202.6,105.5h-13.9v1h13.9V105.5z M213.7,109.3v-1h-4.4v-1.8h1.2v-1h-1.2v-1.6h3.5v-1
+				h-3.5V100h-25.7v4.4l-4.9,1.8v2.3l-4.1,1l0,0.4H174v1.7h0.7l0.2,2.6h-1.2v1h2.1c0.2-1.6,1.7-2.9,3.4-2.9c1.7,0,3.1,1.3,3.4,2.9
+				h16.2c0.2-1.6,1.7-2.9,3.4-2.9c1.7,0,3.1,1.3,3.4,2.9h5.1v-1h-1.3v-4.9H213.7z M183.6,108.7l-3.9-0.2v-1.8l3.9-1.4V108.7z
+				 M208.3,102.9h-15.2v1h15.2v1.6h-3.5v1h3.5v1.8H197v1h11.3v4.9h-2.1c-0.6-1.7-2.2-2.9-4.1-2.9s-3.5,1.2-4.1,2.9h-13.5V101h23.7
+				V102.9z"/>
+		</g>
+	</g>
+	<polygon display="inline" fill="#FFFFFF" points="209.6,126.9 194.6,126.9 195.6,125.9 210.6,125.9 	"/>
+	<polygon display="inline" fill="#FFFFFF" points="208.8,130.5 188.6,130.5 189.6,129.5 209.8,129.5 	"/>
+	<polygon display="inline" fill="#858D93" points="213.8,130.5 208.8,130.5 209.8,129.5 214.8,129.5 	"/>
+	<polygon display="inline" fill="#858D93" points="211.8,126.9 208.8,126.9 209.8,125.9 212.8,125.9 	"/>
+</g>
+<g id="Final">
+	<g>
+		<defs>
+			<polygon id="SVGID_1_" points="6,1.1 2.5,4.2 6,7.4 4.8,8.5 0,4.2 4.8,0 			"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#0096FF"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<rect x="-5.4" y="-5.4" clip-path="url(#SVGID_2_)" fill="#0096FF" width="16.8" height="19.3"/>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FF2D2D" d="M50.6,64c-0.5,0-0.6-0.3-0.4-0.7l7.5-13c0.2-0.4,0.6-0.4,0.8,0
+			l7.5,13c0.2,0.4,0,0.7-0.4,0.7H50.6"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M57.3,54.3h2L59,59.5h-1.5L57.3,54.3z M58.3,60.3
+			c0.6,0,1,0.4,1,1c0,0.5-0.4,1-1,1c-0.6,0-1-0.4-1-1C57.2,60.8,57.7,60.3,58.3,60.3z"/>
+	</g>
+	<rect x="-952" y="-1055" fill-rule="evenodd" clip-rule="evenodd" fill="none" width="1240" height="1600"/>
+	<rect x="-952" y="-1055" fill-rule="evenodd" clip-rule="evenodd" fill="none" width="1240" height="1600"/>
+	<rect x="-952" y="-1055" fill-rule="evenodd" clip-rule="evenodd" fill="none" width="1240" height="1600"/>
+	<rect x="-952" y="-1055" fill-rule="evenodd" clip-rule="evenodd" fill="none" width="1240" height="1600"/>
+	<rect x="-952" y="-1055" fill-rule="evenodd" clip-rule="evenodd" fill="none" width="1240" height="1600"/>
+	<rect x="-952" y="-1055" fill-rule="evenodd" clip-rule="evenodd" fill="none" width="1240" height="1600"/>
+	<path fill="#0096FF" d="M58.1,8h-7V1h2V0h-3v9h9V6h-1V8z M55.1,0v1h2.4l-3.8,3.8l0.7,0.7l3.8-3.8V4h1V0H55.1z"/>
+	<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#B2AEA2" points="9.5,51.7 7.8,50 4.7,53.1 1.7,50 0,51.7 3.1,54.7 
+		0,57.8 1.7,59.5 4.7,56.4 7.8,59.5 9.5,57.8 6.4,54.7 9.5,51.7 	"/>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#858D93" d="M108.2,160.1c0-2.2,1.2-4.1,2.9-5.1c0.6-2.9-1.5-4.9-3.4-4.9
+			c-1.9,0-4.3,1.5-3.4,5c0.5,1.8,0.8,3.4,1.4,4.1c-0.8,2.2-5.6,2.2-5.6,4.7v1.3h10.7C109.3,164,108.2,162.2,108.2,160.1z"/>
+		<g>
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#F2F3F4" d="M119.8,164.3l-2.2-2.2c0.4-0.6,0.6-1.3,0.6-2.1
+					c0-2.2-1.8-4-4-4c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4c0.8,0,1.5-0.2,2.1-0.6l2.2,2.2c0.4,0.4,0.9,0.4,1.3,0
+					C120.1,165.3,120.1,164.7,119.8,164.3z M114.2,162.1c-1.1,0-2-0.9-2-2c0-1.1,0.9-2,2-2c1.1,0,2,0.9,2,2
+					C116.2,161.2,115.3,162.1,114.2,162.1z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path fill="#858D93" d="M0,152.1v11h15v-11H0z M13,161.1H2v-7h11V161.1z M10,150.1H5v1h5V150.1z"/>
+		<polygon fill="#F2F3F4" points="13,156.7 8,156.7 8,155.7 7,155.7 7,156.7 2,156.7 2,157.7 7,157.7 7,158.7 8,158.7 8,157.7 
+			13,157.7 		"/>
+	</g>
+	<g>
+		<path fill="#858D93" d="M50.1,150.1v19h15v-19H50.1z M64.1,168.1h-13v-17h13V168.1z M56.1,159h-3v3h3V159z M62.1,159h-5v1h5V159z
+			 M61.1,161h-4v1h4V161z M62.1,163h-9v1h9V163z M58.1,165h-5v1h5V165z"/>
+		<rect x="53.1" y="153" fill="#F2F3F4" width="9" height="4"/>
+	</g>
+	<g>
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#0096FF" d="M107.9,3.1L107,2.9c0-0.1,0-0.1-0.1-0.2l0.5-0.8
+				c0.1-0.1,0.1-0.3-0.1-0.4l-0.7-0.7c-0.1-0.1-0.3-0.1-0.5-0.1l-0.8,0.5c-0.1,0-0.1-0.1-0.2-0.1l-0.2-0.9c0-0.2-0.2-0.3-0.4-0.3h-1
+				c-0.2,0-0.3,0.1-0.4,0.3l-0.2,0.9c-0.1,0-0.1,0-0.2,0.1l-0.8-0.5c-0.1-0.1-0.3-0.1-0.5,0.1L101,1.5c-0.1,0.1-0.1,0.3-0.1,0.4
+				l0.5,0.8c0,0.1-0.1,0.1-0.1,0.2l-0.9,0.2c-0.2,0-0.3,0.2-0.3,0.4v1c0,0.2,0.1,0.3,0.3,0.4l0.9,0.2c0,0.1,0,0.1,0.1,0.2L100.9,6
+				c-0.1,0.1-0.1,0.3,0.1,0.4l0.7,0.7c0.1,0.1,0.3,0.1,0.5,0.1l0.8-0.5c0.1,0,0.1,0.1,0.2,0.1l0.2,0.9c0,0.2,0.2,0.3,0.4,0.3h1
+				c0.2,0,0.3-0.1,0.4-0.3l0.2-0.9c0.1,0,0.1,0,0.2-0.1l0.8,0.5c0.1,0.1,0.3,0.1,0.5-0.1l0.7-0.7c0.1-0.1,0.1-0.3,0.1-0.4L107,5.2
+				c0-0.1,0.1-0.1,0.1-0.2l0.9-0.2c0.2,0,0.3-0.2,0.3-0.4v-1C108.2,3.3,108.1,3.2,107.9,3.1z M104.2,5c-0.6,0-1-0.4-1-1
+				c0-0.5,0.5-1,1-1c0.6,0,1,0.4,1,1C105.2,4.5,104.7,5,104.2,5z"/>
+		</g>
+	</g>
+	<path fill="#858D93" d="M10.5,115.3l1.7,1.7l1.7-1.7c-0.4-0.4-1-0.7-1.7-0.7C11.6,114.6,11,114.8,10.5,115.3z M7.1,111.8l1.7,1.7
+		c0.9-0.9,2.1-1.4,3.4-1.4s2.6,0.5,3.4,1.4l1.7-1.7c-1.3-1.3-3.1-2.1-5.1-2.1C10.2,109.7,8.4,110.5,7.1,111.8z M3.7,108.4l1.7,1.7
+		c1.8-1.8,4.2-2.8,6.9-2.8s5.1,1.1,6.9,2.8l1.7-1.7c-2.2-2.2-5.2-3.6-8.6-3.6C8.9,104.9,5.9,106.2,3.7,108.4z M12.2,100
+		c-4.7,0-8.9,1.9-12,5l1.7,1.7c2.6-2.6,6.3-4.3,10.3-4.3s7.7,1.6,10.3,4.3l1.7-1.7C21.2,101.9,16.9,100,12.2,100z"/>
+	<g>
+		<g>
+			<path fill="#858D93" d="M55.6,114c-1.4,0-2.5,1.1-2.5,2.5c0,1.4,1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5
+				C58.1,115.1,57,114,55.6,114z M55.5,117.5c-0.6,0-1-0.4-1-1s0.4-1,1-1c0.6,0,1,0.4,1,1S56.1,117.5,55.5,117.5z M78.5,114
+				c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5c1.4,0,2.5-1.1,2.5-2.5S79.9,114,78.5,114z M78.5,117.5c-0.6,0-1-0.4-1-1s0.4-1,1-1
+				c0.6,0,1,0.4,1,1S79,117.5,78.5,117.5z M88.7,109l1-1h-4.1v-2h1l1-1h-2v-5H59.9v4.9l-4.9,1.8v2.3l-3.1,0.9l-0.8,3.9h-1v2h2.1
+				c0.2-1.6,1.7-2.8,3.4-2.8s3.1,1.2,3.4,2.8h16.2c0.2-1.6,1.7-2.8,3.4-2.8c1.7,0,3.1,1.2,3.4,2.8h5.1v-1h-1.3V109H88.7z
+				 M59.9,109.2L56,109v-1.7l3.9-1.4V109.2z M84.7,105H69.9l-1,1h15.8v2H71.9l-1,1h13.8v5.8h-2.1c-0.6-1.7-2.2-2.8-4.1-2.8
+				c-1.9,0-3.5,1.1-4.1,2.8H60.9V101h23.7V105z"/>
+		</g>
+	</g>
+</g>
+<g id="Labels" display="none">
+	<text transform="matrix(1 0 0 1 -56.97 8.4598)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="12">UI Icons</text>
+	
+		<text transform="matrix(1 0 0 1 -1.525879e-04 -3.896)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Back</text>
+	
+		<text transform="matrix(1 0 0 1 -1.525879e-04 45.4374)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Close</text>
+	
+		<text transform="matrix(1 0 0 1 -1.525879e-04 96.7739)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Remote</text>
+	<text transform="matrix(1 0 0 1 -1.525879e-04 139.1488)" display="inline"><tspan x="0" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Job </tspan><tspan x="0" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Campaigns</tspan></text>
+	<text transform="matrix(1 0 0 1 50.0866 139.1488)" display="inline"><tspan x="0" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Company </tspan><tspan x="0" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">P</tspan><tspan x="3.9" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">r</tspan><tspan x="5.8" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">ofile</tspan></text>
+	<text transform="matrix(1 0 0 1 100.1893 139.1488)" display="inline"><tspan x="0" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Candidate </tspan><tspan x="0" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Sea</tspan><tspan x="10.3" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">r</tspan><tspan x="12.2" y="7.2" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">ch</tspan></text>
+	<text transform="matrix(1 0 0 1 50.0868 96.7739)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Relocation</text>
+	<text transform="matrix(1 0 0 1 50.0869 45.4374)" display="inline"><tspan x="0" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">W</tspan><tspan x="5.3" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">a</tspan><tspan x="8.6" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">r</tspan><tspan x="10.7" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">ning</tspan></text>
+	<text transform="matrix(1 0 0 1 50.0871 -3.896)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Outbound Link</text>
+	<text transform="matrix(1 0 0 1 100.1891 -3.896)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="6">Settings (Small)</text>
+	
+		<text transform="matrix(1 0 0 1 -97.4456 113.1872)" display="inline" fill="#858D93" font-family="'HelveticaNeue'" font-size="12">Job Campaigns</text>
+	<text transform="matrix(1 0 0 1 -63.4261 161.0151)" display="inline"><tspan x="0" y="0" fill="#858D93" font-family="'HelveticaNeue'" font-size="12">Employer </tspan><tspan x="4" y="14.4" fill="#858D93" font-family="'HelveticaNeue'" font-size="12">Sections</tspan></text>
+</g>
+</svg>

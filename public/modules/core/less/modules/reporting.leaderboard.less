@@ -1,0 +1,79 @@
+//
+//  STACK OVERFLOW CAREERS
+//
+//  VARIABLES
+//  
+//  TABLE OF CONTENTS
+//  • VARIABLES
+//  • BASE STYLE
+//  • TYPE STYLE
+//  • VARIATIONS
+//
+//  ===========================================================================
+//  $ VARIABLES
+//  ---------------------------------------------------------------------------
+@leaderboard-border:			@borderColor-grayLight;
+@leaderboard-label-color:       lighten(@color-grayMid,25%);
+
+
+//  ===========================================================================
+//  $ BASE STYLE
+//  ---------------------------------------------------------------------------
+.leaderboard {
+    display: table;
+    margin-bottom: 1.5em;
+    width: 100%;
+
+    border: 1px solid @leaderboard-border;
+    border-radius: @borderRadius-base;
+
+    .-item {
+    	display: table-cell;
+        vertical-align: middle;
+        height: 90px;
+    	text-align: center;
+    	border-left: 1px solid @leaderboard-border;
+
+    	&:first-of-type { border-left: none; }
+    }
+
+    //  --  Cell Widths
+    &._col2 > .-item { width: 50%; }
+    &._col3 > .-item { width: 33.333333333%; }
+    &._col4 > .-item { width: 25%; }
+    &._col5 > .-item { width: 20%; }
+    &._col6 > .-item { width: 16.666666667%; }
+    &._col7 > .-item { width: 14.285714286%; }
+    &._col8 > .-item { width: 12.5%; }
+}
+
+
+//  ===========================================================================
+//  $ TYPE STYLE
+//  --------------------------------------------------------------------------- 
+.leaderboard {
+    .-stat {
+    	display: block;
+        margin-bottom: 0;
+        .fontSize(l);
+        .fontWeight(7);
+    }
+
+    .-label {
+        display: block;
+        margin-bottom: 0;
+        margin-top: 2px;
+        .fontSize(s);
+        .fontWeight(4);
+        .lineHeight(base);
+        color: @leaderboard-label-color;
+    }
+}
+
+
+//  ===========================================================================
+//  $ VARIATIONS
+//  --------------------------------------------------------------------------- 
+.leaderboard {
+    &.has-none { opacity: 0.5; }
+}
